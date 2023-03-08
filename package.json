@@ -1,8 +1,8 @@
 {
-	"name": "ZiaRein",
+	"name": "RieBerry",
 	"version": "1.0.5",
 	"description": "A simple Facebook Messenger Bot By RieBerry",
-	"main": "Welt.js",
+	"main": "RieBerry.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
